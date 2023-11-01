@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Saviour Najuna
+# 👋 Hello, there!
 
 - 🐍 Python Developer | Instructor @Thirdsan Enterprises
 - 🎓 Graduate of A. D. Software Engineering from APTECH Computer Education (2012-2016)
