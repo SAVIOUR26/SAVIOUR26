@@ -9,5 +9,5 @@
 - 💡 Expanding horizons: JavaScript, React, React Native, Go Lang, PHP
 - 🚀 Transforming ideas into innovative solutions, one line of code at a time
 
-Let's connect, collaborate, and make cool things with code! 💬
+💬 Let's establish a connection, coalesce our skills, and craft remarkable code together! 🐍🚀! 
 
