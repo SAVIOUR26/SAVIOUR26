@@ -3,8 +3,7 @@
 
 - 🐍 Python Developer | Instructor @Thirdsan Enterprises
 - 🎓 Graduate of A. D. Software Engineering from APTECH Computer Education (2012-2016)
-- 👨‍💻 Multilingual coder in Python, C, Shell, HTML/CSS
-- 
+- 👨‍💻 Multilingual coder in Python, C, Shell, HTML/CSS, WordPress
 - 🐍 Python Enthusiast | 🌟 Mastered: 
 - Django and Flask for web development
 - Pandas and NumPy for data manipulation
